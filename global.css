@@ -1,0 +1,165 @@
+#wrappper {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#header {
+	height: 200px;
+	width: 100%;
+	background-color: #5d9eff;
+	color: white;
+	text-align: center;
+	font-family: Corbel;
+	border-bottom: 1px solid gray;
+	position: relative;
+}
+
+#logo {
+	float: left;
+}
+
+#special {
+	background-color: #cccccc;
+	position: absolute;
+	top: 65px;
+    right: 30px;
+	float: right;
+	margin-right: 50px;
+	color: white;
+	font-family: Lucida Handwriting;
+	width: 170px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding-top: 0px;
+}
+
+#main_nav a:hover {
+	font-weight: bold;
+}
+
+#main_nav a {
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+	font-family: Lucida Handwriting;
+	background-color: #bbd5ff;
+}
+
+#links {
+	font-size: 20px;
+	font-family: Lucida Handwriting;
+	background-color: #bbd5ff;
+	word-spacing: 5px;
+	height: 30px;
+	text-align: center;
+	width: 100%;
+	float: left;
+	z-index: -1;
+}
+
+#picture {
+	float: left;
+	margin-left: 50px;
+	margin-right: 20px;
+}
+
+h2 {
+	color: #51617a;
+	font-size: 36px;
+	font-family: Corbel;
+	text-align: center;
+}
+
+#main {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+p {
+	color: #51617a;
+	font-size: 18px;
+	font-family: Corbel;
+	text-align: center;
+	line-height: 170%;
+}
+
+h3 {
+	color: black;
+	font-size: 25px;
+	font-family: Corbel;
+	text-align: center;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+h5 {
+	color: #51617a;
+	font-size: 25px;
+	font-family: Corbel;
+}
+
+h6 {
+	color: #51617a;
+	font-size: 20px;
+	font-family: Corbel;
+	text-align: center;
+}
+
+#schedule {
+	margin-top: 80px;
+	margin-bottom: 80px;
+	margin-left: 35px;
+}
+
+#graphic {
+	margin-left: 200px;
+	margin-right: 150px;
+	word-spacing: 150px;
+}
+
+#footer {
+	background-color: #5d9eff;
+	color: white;
+	height: 175px;
+	padding: 20px;
+	margin-top: 70px;
+	border-top: 1px solid black;
+}
+
+li {
+	color: #51617a;
+	font-size: 18px;
+	font-family: Corbel;
+}
+
+table, th, td {
+    border: 2px solid #51617a;
+	color: #51617a;
+	font-size: 16px;
+	font-family: Corbel;
+	text-align: center;
+	height: 40px;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+#image {
+	float: right;
+	position: absolute;
+	bottom: 150px;
+    right: 70px;
+	margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
